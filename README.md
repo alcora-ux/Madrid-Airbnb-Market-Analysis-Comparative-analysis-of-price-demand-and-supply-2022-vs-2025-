@@ -49,3 +49,17 @@ This redesign was an opportunity to revisit an earlier project, apply what I hav
 
 Same project, a new perspective, and always room for improvement.
 <img width="1305" height="733" alt="image" src="https://github.com/user-attachments/assets/c1eccf48-9fe0-4bfe-a1a0-a684d8df8fc5" />
+
+
+
+## Technical Scope & Disclaimer
+
+This project was initially developed as an academic exercise during my Data Analytics Bootcamp. Its primary focus was on data analysis, KPI development and Power BI dashboard design.
+
+The semantic model retains a simplified structure based on a consolidated dataset, rather than implementing a more advanced data architecture or a fully normalized data model.
+
+The redesign focuses primarily on improving data visualization, information hierarchy and the overall user experience, while preserving the original analytical approach.
+
+Additionally, review-related metrics are used as proxies for platform activity and should not be interpreted as direct measures of bookings or actual market demand.
+
+This project is intended as a learning and portfolio exercise, not as a production-ready BI solution.

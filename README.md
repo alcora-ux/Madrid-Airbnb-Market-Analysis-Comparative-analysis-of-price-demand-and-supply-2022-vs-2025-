@@ -11,7 +11,7 @@ This repository includes the original dashboard developed as part of my Data Ana
 
 The redesigned dashboard focuses on improving the visual experience while retaining the original project's analytical foundations.
 
-![Airbnb Madrid – Redesigned Dashboard](dashboard-redesigned.png)
+
 
 ### Key improvements
 

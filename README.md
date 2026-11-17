@@ -42,11 +42,6 @@ The dashboard explores:
 - Data visualization
 - Data analysis
 
-## Project Files
-
-- `Airbnb_Madrid_Original.pbix` – Original dashboard.
-- `Airbnb_Madrid_Redesigned.pbix` – Redesigned dashboard.
-- `dashboard-redesigned.png` – Preview of the redesigned dashboard.
 
 ## Project Reflection
 
